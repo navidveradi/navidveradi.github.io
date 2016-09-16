@@ -1,2 +1,2 @@
 # navidveradi.github.io
-Navid Veradi personal website
+Navid Veradi's personal website
